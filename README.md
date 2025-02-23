@@ -6,6 +6,8 @@
 
 博主@汤汤好梦(37tt)的项目库tang-love的再传库，截止当前`UTC+8 2025-02-19 00:46:20`其原github账户与库均隐藏不可见，原因是github账户受到不知名原因被BAN
 
+current repository forked from JayMuShui/tang-love
+
 # FOR ME
  
 本人根据原先的项目基础上进行了一些功能添加与细节优化，详情请见的我commit的记录。
